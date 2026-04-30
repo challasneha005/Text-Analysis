@@ -1,0 +1,10 @@
+Budget, Sales KPI Dashboard using Power BI
+
+Project Description
+Data Visualization Deliverables
+PresentationMapDashboardAPI Integration
+Data Visualization Tools
+KibanaGoogle Data StudioMicrosoft ExcelMicrosoft Power BI
+Data Visualization Languages
+JavaScriptSQLPythonDAX
+Demo
